@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Tori-Bemide/Blog-preview-card/blob/main/index.html)
-- Live Site URL: [Live Server](https://tori-bemide.github.io/Blog-preview-card/)
+- Solution URL: [Solution](https://github.com/Tori-Bemide/stats-preview-card-solution)
+- Live Site URL: [Live Server](https://tori-bemide.github.io/stats-preview-card-solution/)
 
 ## My process
 
